@@ -1,5 +1,5 @@
 {
-  "name": "bishen",
+  "name": "bishen-old-design",
   "version": "1.0.0",
   "description": "1. установка parcel (https://parceljs.org/)\r    - npm init --y\r    - \"npm install parcel-bundler --save-dev\" <- команда для Установки Парсел",
   "main": "index.js",
